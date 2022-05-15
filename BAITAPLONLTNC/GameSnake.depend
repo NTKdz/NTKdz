@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1652447845 source:d:\baitest2\ltnc_game-main\game.cpp
+	<vector>
+	<cassert>
+	<cstdlib>
+	<iostream>
+	"Game.h"
+
+1491845541 d:\baitest2\ltnc_game-main\game.h
+	"Snake.h"
+	"Position.h"
+
+1491845541 d:\baitest2\ltnc_game-main\snake.h
+	<queue>
+	<vector>
+	"Position.h"
+
+1491845541 d:\baitest2\ltnc_game-main\position.h
+	<stdexcept>
+
+1491845541 source:d:\baitest2\ltnc_game-main\snake.cpp
+	"Snake.h"
+	"Game.h"
+	<iostream>
+
+1652447845 source:d:\baitest2\ltnc_game-main\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+
+1652448989 source:d:\baitest2\ltnc_game-main\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<chrono>
+	"SDL_utils.h"
+	"Game.h"
+	"Gallery.h"
+
+1652446535 d:\baitest2\ltnc_game-main\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1652448360 d:\baitest2\ltnc_game-main\gallery.h
+	<vector>
+	<string>
+	<SDL.h>
+
+1652448360 source:d:\baitest2\ltnc_game-main\gallery.cpp
+	"Gallery.h"
+	"SDL_utils.h"
+	<SDL_image.h>
+
+1652495186 source:d:\baitaplonltnc\gallery.cpp
+	"Gallery.h"
+	"SDL_utils.h"
+	<SDL_image.h>
+
+1652493603 d:\baitaplonltnc\gallery.h
+	<vector>
+	<string>
+	<SDL.h>
+
+1652613001 d:\baitaplonltnc\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1652613000 source:d:\baitaplonltnc\game.cpp
+	<vector>
+	<cassert>
+	<cstdlib>
+	<iostream>
+	"Game.h"
+	"SDL_utils.h"
+
+1652644903 d:\baitaplonltnc\game.h
+	"Snake.h"
+	"Position.h"
+	"SDL.h"
+	<SDL_ttf.h>
+
+1652593841 d:\baitaplonltnc\snake.h
+	<queue>
+	<vector>
+	"Position.h"
+
+1652593946 d:\baitaplonltnc\position.h
+	<stdexcept>
+
+1652654446 source:d:\baitaplonltnc\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<chrono>
+	"SDL_utils.h"
+	"Game.h"
+	"Gallery.h"
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1652579123 source:d:\baitaplonltnc\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+
+1652593841 source:d:\baitaplonltnc\snake.cpp
+	"Snake.h"
+	"Game.h"
+	<iostream>
+
